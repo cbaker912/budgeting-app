@@ -1,0 +1,27 @@
+body {
+  font-family: sans-serif;
+  background: #f0f4f8;
+  margin: 0;
+  padding: 2rem;
+}
+.App {
+  max-width: 800px;
+  margin: auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+}
+td, th {
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+}
+input {
+  width: 100%;
+  padding: 0.25rem;
+}
